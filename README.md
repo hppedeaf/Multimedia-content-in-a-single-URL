@@ -4,4 +4,4 @@ I have made modifications to the system, enabling it to process both videos and 
 
 ## ▶ How Work ?
 
-[![Watch the video](Video/Single_URL.mp4)
+![Watch the video](Video/Single_URL.mp4)
