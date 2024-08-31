@@ -5,4 +5,5 @@ I have made modifications to the system, enabling it to process both videos and 
 ## ▶ How Work ?
 
 ![Watch the video](image/SingleURL.png)
-![video](https://github.com/user-attachments/assets/0a28bd1c-183e-4f02-bde9-9d253308c3a4)
+
+https://github.com/user-attachments/assets/6e468932-3d39-4690-b9b4-5ddb64932794
