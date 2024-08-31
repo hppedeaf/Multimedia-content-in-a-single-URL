@@ -1,0 +1,18 @@
+{
+  "name": "com.hppedeaf.single-url.Editor",
+  "references": [
+    "VRC.SDK3",
+    "VRC.SDK3.Editor",
+    "VRC.SDKBase",
+    "VRC.SDKBase.Editor",
+    "com.hppedeaf.single-url"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
