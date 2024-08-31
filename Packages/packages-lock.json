@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.hppedeaf.single-url": {
+    "com.hppedeaf.com.hppedeaf.single-url": {
       "version": "file:com.hppedeaf.single-url",
       "depth": 0,
       "source": "embedded",
