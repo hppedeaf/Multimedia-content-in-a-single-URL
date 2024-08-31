@@ -4,4 +4,4 @@ I have made modifications to the system, enabling it to process both videos and 
 
 ## ▶ How Work ?
 
-[![Watch the video](https://hppedeaf.github.com/Multimedia-content-in-a-single-URL/main/Video/Single_URL.mp4)
+[![Watch the video](Video/Single_URL.mp4)
