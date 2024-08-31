@@ -10,7 +10,7 @@
           "name": "Multimedia-content-in-a-single-URL",
           "displayName": "Multimedia content in a single URL",
           "version": "1.0.0",
-          "unity": "202.3.22",
+          "unity": "202.3",
           "description": "I have made modifications to the system, enabling it to process both videos and images within the same text. By pasting a URL, the system will automatically detect and categorize the content as either a video or an image.",
           "author": {
             "name": "hppedeaf",
