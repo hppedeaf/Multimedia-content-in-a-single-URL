@@ -1,8 +1,9 @@
 {
   "name": "com.hppedeaf.single-url",
-  "displayName": "Single URL",
-  "version": "1.0.0",
-  "description": "I have made modifications to the system, enabling it to process both videos and images within the same text. By pasting a URL, the system will automatically detect and categorize the content as either a video or an image.",
+  "displayName": "com.hppedeaf.single-url",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "dependencies": {},
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.worlds": "3.7.0"
@@ -13,5 +14,5 @@
   },
   "legacyFolders": {},
   "legacyFiles": {},
-  "localPath": "E:\\bureau\\unity\\unity hub\\TACHPPE HOME\\Packages\\com.hppedeaf.single-url"
+  "localPath": "E:\\bureau\\unity\\unity hub\\VPM\\Packages\\com.hppedeaf.single-url"
 }
