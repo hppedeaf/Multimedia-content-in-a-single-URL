@@ -1,1 +1,0 @@
-# com.hppedeaf.single-url by hpped
